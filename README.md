@@ -6,7 +6,7 @@ Flyver is a website where users can search, book and/or cancel flight tickets.
 
 ## Live Demo
 
-To see the project in action, go to [https://flyver.herokuapp.com/](https://flyver.herokuapp.com/)
+To see the project in action, go to [https://flyver-379416.el.r.appspot.com/](https://flyver-379416.el.r.appspot.com/)
 
 <br>
 

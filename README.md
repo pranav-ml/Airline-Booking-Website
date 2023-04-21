@@ -24,12 +24,12 @@ Once you have Node.js and MongoDB installed on your computer,
 
 #### Clone or download this repository.
 ```sh
-git clone https://github.com/pranav-ml/Flyver-airline-booking-website.git
+git clone https://github.com/pranav-ml/Airline-Booking-Website.git
 ```
 
 #### Change the folder and Install dependencies.
 ```sh
-cd Flyver-airline-booking-website
+cd Airline-Booking-Website
 npm install
 ```
 
@@ -45,53 +45,3 @@ npm start
 ```
 
 #### Open your web browser and visit the address `localhost:3000` and voila!
-
-<br>
-
-## Features
-
-* Authentication:
-  * User login with email and password.
-  * For new user, there is a sign-up option.
-
-* Authorization:
-  * User can only book and cancel ticktets after logging in.
-  * User cannot cancel flight tickets without being authenticated.
-
-* Ticket booking functionalities:
-  * Search for tickets with necessary parameters.
-  * Filter search by price, duration or alphatical order.
-
-* Contact feature for any queries.
-
-* Flash messages responding to users' interaction with the app.
-
-* Responsive web design.
-
-<br>
-
-## Built with
-
-### Front-end
-
-* [ejs](http://ejs.co/)
-* [bootstrap](https://getbootstrap.com/)
-* [jQuery](https://jquery.com/)
-
-### Back-end
-
-* [node.js](https://nodejs.org/en/)
-* [express](https://expressjs.com/)
-* [mongoDB](https://www.mongodb.com/)
-* [mongoose](http://mongoosejs.com/)
-* [async](http://caolan.github.io/async/)
-* [helmet](https://helmetjs.github.io/)
-* [passport](http://www.passportjs.org/)
-* [express-session](https://github.com/expressjs/session#express-session)
-* [connect-flash](https://github.com/jaredhanson/connect-flash#connect-flash)
-
-### Platforms
-
-* [git](https://git-scm.com/)
-* [heroku](https://www.heroku.com/)
-* [github](https://github.com/)
